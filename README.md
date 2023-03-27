@@ -16,10 +16,10 @@ There are 3 stages to the Documentation:
   - [Users](#users)
 
 ## Developer
-- [ ] Overview
-- [ ] Environment Setup
-  - [ ] GitHub Codespaces
-  - [ ] Relevant Extensions
+- [x] Overview
+- [x] Environment Setup
+  - [x] GitHub Codespaces
+  - [x] Relevant Extensions
 - [ ] Brief Intro to **File Structure** (Details of each Directory)
 - [ ] Firebase
   - [ ] Connection Setup between App and DB<br>(Firestore aka Firebase DB)
@@ -38,12 +38,12 @@ There are 3 stages to the Documentation:
 - [ ] Login/Register
 - [ ] Verification
 - [ ] Main Home Page
-- [ ] New Post
-- [ ] Upload from Gallery
+- [x] New Post
+- [x] Upload from Gallery
 - [ ] Add Connect
-- [ ] Add Scrapbook
+- [x] Add Scrapbook
 - [ ] Add Media
-- [ ] Comments
+- [x] Comments
 - [ ] Create
 - [ ] Create Group Content
 - [ ] Edit Group
