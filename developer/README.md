@@ -1,3 +1,4 @@
+<!-- omit from toc -->
 # Developer Documentation
 
 For the new developer, this documentation will help you get started with the project.
@@ -6,10 +7,14 @@ This section will help you understand the project structure and how to get start
 
 ## Table of Contents
 
-- Overview
-- Environment Setup
-  - GitHub Codespaces
-  - Relevant Extensions
+- [Table of Contents](#table-of-contents)
+- [Overview](#overview)
+- [Environment Setup](#environment-setup)
+  - [GitHub Codespaces](#github-codespaces)
+    - [Requirements](#requirements)
+    - [Instructions](#instructions)
+  - [Relevant Extensions](#relevant-extensions)
+    - [React Extensions](#react-extensions)
 
 ## Overview
 This project uses the following Technologies:
