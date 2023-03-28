@@ -5,9 +5,9 @@ For the new developer, this documentation will help you get started with the pro
 
 This section will help you understand the project structure and how to get started with the project.
 
+<!-- omit from toc -->
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
 - [Environment Setup](#environment-setup)
   - [GitHub Codespaces](#github-codespaces)
