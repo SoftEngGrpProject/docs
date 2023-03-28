@@ -8,6 +8,7 @@
 - [Pre-requisites](#pre-requisites)
 - [Connecting the Application to Firebase](#connecting-the-application-to-firebase)
 - [API Keys](#api-keys)
+- [Setting up Firebase Auth](#setting-up-firebase-auth)
 
 
 ## Overview
@@ -63,3 +64,18 @@ To set up Firebase for your social media application, you need to get the API ke
 7. Copy the configuration object to your clipboard or a text editor, as you will need to use it in your social media application's code.
 
 Now that you have the API keys for your Firebase project, you can use them to set up the Firebase connection between your social media application and the Firebase database.
+
+## Setting up Firebase Auth
+
+Firebase Auth provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app.
+
+Setting up Firebase Authentication for the social media application is an important step to enable user authentication and authorization. Follow these steps to set up Firebase Auth:
+
+1. Sign in to the Firebase console and select your project.
+2. Click on the "**Authentication**" tab on the left-hand sidebar.
+3. Click on the "**Get started**" button to enable Firebase Auth for your project.
+4. Select the **Email and Password** Authentication method and click on the "**Enable**" button.
+5. Once initialized, you can use the authentication method enabled to allow users to sign up, sign in, and manage their accounts within your app.
+6. To secure access to protected resources within your app, such as user data, you can use Firebase's built-in security rules to define who can access what data.
+
+With Firebase Auth set up, you can ensure that your social media app is secure and that only authorized users can access sensitive data and features.
