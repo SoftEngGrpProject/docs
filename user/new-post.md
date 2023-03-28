@@ -1,4 +1,10 @@
+<!-- omit from toc -->
 # New Post
+
+- [Tagging Users](#tagging-users)
+- [Adding more Images](#adding-more-images)
+- [Posting in Groups](#posting-in-groups)
+- [Marking Post as Factual Content](#marking-post-as-factual-content)
 
 To create a post, you will need to log in to your account on our application by following the previous steps in the documentation.
 
@@ -26,7 +32,7 @@ To post in a group, you will need to navigate to the features, you must click on
 
 Once you have accessed the post creation page, you can create your post as usual. When you publish the post, it will be visible to all the members of the group. 
 
-## Marking Post as Factual Content: 
+## Marking Post as Factual Content
 
 To mark your post as factual content, you will need to select the "**Factual Content**" option when creating the post.<br>
 This will inform your audience that the post contains accurate and reliable information.
