@@ -20,7 +20,7 @@ There are 3 stages to the Documentation:
 - [x] Environment Setup
   - [x] GitHub Codespaces
   - [x] Relevant Extensions
-- [ ] Brief Intro to **File Structure** (Details of each Directory)
+- [x] Brief Intro to **File Structure** (Details of each Directory)
 - [ ] Firebase
   - [ ] Connection Setup between App and DB<br>(Firestore aka Firebase DB)
     - [ ] API Key
