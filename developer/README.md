@@ -43,19 +43,19 @@ GitHub Codespaces is a cloud-based development environment that allows you to co
 ### Relevant Extensions
 Note: These extensions are already installed in GitHub Codespaces, saving you the hassle of installing them manually.
 
-1. [GitHub Codespaces](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces) - For using GitHub Codespaces locally
-2. [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - For AI-assisted coding (Beta)
-3. [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - For better Git integration
-4. [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - For better Git visualization
-5. [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - For code formatting
-6. [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - For live collaboration
-7.  [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
-8.  [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+- [GitHub Codespaces](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces) - For using GitHub Codespaces locally
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - For AI-assisted coding (Beta)
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - For better Git integration
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - For better Git visualization
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - For code formatting
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - For live collaboration
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
 
 #### React Extensions
-1. [Bundle Size](https://marketplace.visualstudio.com/items?itemName=ambar.bundle-size) - For bundle size visualization
-2. [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-3. [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
-4. [Material-UI Snippets](https://marketplace.visualstudio.com/items?itemName=vscodeshift.material-ui-snippets) - For Material-UI components
-5. [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - For Tailwind CSS
+- [Bundle Size](https://marketplace.visualstudio.com/items?itemName=ambar.bundle-size) - For bundle size visualization
+- [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+- [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)
+- [Material-UI Snippets](https://marketplace.visualstudio.com/items?itemName=vscodeshift.material-ui-snippets) - For Material-UI components
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) - For Tailwind CSS
