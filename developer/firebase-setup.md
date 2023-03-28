@@ -9,6 +9,7 @@
 - [Connecting the Application to Firebase](#connecting-the-application-to-firebase)
 - [API Keys](#api-keys)
 - [Setting up Firebase Auth](#setting-up-firebase-auth)
+- [Firestore Database Setup](#firestore-database-setup)
 
 
 ## Overview
@@ -79,3 +80,29 @@ Setting up Firebase Authentication for the social media application is an import
 6. To secure access to protected resources within your app, such as user data, you can use Firebase's built-in security rules to define who can access what data.
 
 With Firebase Auth set up, you can ensure that your social media app is secure and that only authorized users can access sensitive data and features.
+
+## Firestore Database Setup
+
+1. Navigate to the "**Firestore Database**" section and click on "**Create Database**".
+
+2. Choose "**Start in test mode**" and select a region for your database.
+
+3. Next, you need to set up security rules for your database.<br>
+Go to the "**Rules**" tab and write the rules for your database.<br>
+You can start with the following basic rules:
+
+```lua
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /{document=**} {
+      allow read, write: if true;
+    }
+  }
+}
+```
+These rules will allow all read and write requests to your database.
+
+5. Once the rules are set up, you can start adding collections and documents to your database using the Firebase console or the Firestore API.
+
+Now you can use the `db` object to read from and write to your Firestore database in your social media application.
