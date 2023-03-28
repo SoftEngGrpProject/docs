@@ -27,8 +27,8 @@ There are 3 stages to the Documentation:
   - [ ] Setting up Firebase Auth
 - [x] [Installation of Dependencies, Libraries](./developer/install-dependencies.md) (`npm i`)
 - [ ] **Cloud Storage** Setup (Firebase Storage)
-- [ ] Deployment (Expo CLI)
-- [ ] Mobile Preview (Expo App)
+- [x] Deployment (Expo CLI)
+- [x] Mobile Preview (Expo App)
 
 ## Platform
 - [ ] System Interface Walkthrough
@@ -39,7 +39,7 @@ There are 3 stages to the Documentation:
 - [ ] Verification
 - [ ] Main Home Page
 - [x] New Post
-- [x] Upload from Gallery
+  - [x] Upload from Gallery
 - [ ] Add Connect
 - [x] Add Scrapbook
 - [ ] Add Media
