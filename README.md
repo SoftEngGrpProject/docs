@@ -21,12 +21,12 @@ There are 3 stages to the Documentation:
   - [x] [GitHub Codespaces](./developer/README.md#github-codespaces)
   - [x] [Relevant Extensions](./developer/README.md#relevant-extensions)
 - [x] Brief Intro to [**File Structure**](./developer/file-structure.md) (Details of each Directory)
-- [ ] Firebase
-  - [ ] Connection Setup between App and DB<br>(Firestore aka Firebase DB)
-    - [ ] API Key
-  - [ ] Setting up Firebase Auth
+- [x] Firebase
+  - [x] Connection Setup between App and DB<br>(Firestore aka Firebase DB)
+    - [x] API Key
+  - [x] Setting up Firebase Auth
+  - [x] Setting up Firestore Storage
 - [x] [Installation of Dependencies, Libraries](./developer/install-dependencies.md) (`npm i`)
-- [ ] **Cloud Storage** Setup (Firebase Storage)
 - [x] Deployment (Expo CLI)
 - [x] Mobile Preview (Expo App)
 
