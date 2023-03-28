@@ -81,7 +81,7 @@ The `core` directory contains the components that are used in the core of the ap
 
 The `elements` directory contains the common UI components that are used throughout the application such as buttons, text inputs and headers.
 
-The `main` directory contains the main application components such as the feeds, profiles, and others.
+The `main` directory contains the main screen components in the application such as the feeds, profiles, and others.
 
 The `styles` directory contains the styles for all the components in the application.
 
