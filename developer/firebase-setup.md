@@ -7,6 +7,7 @@
 - [Overview](#overview)
 - [Pre-requisites](#pre-requisites)
 - [Connecting the Application to Firebase](#connecting-the-application-to-firebase)
+- [API Keys](#api-keys)
 
 
 ## Overview
@@ -49,3 +50,16 @@ const db = firebase.firestore();
 5. Make sure to import the Firebase modules in any components or modules where you plan to use it.
 
 That's it! You have successfully connected your Social Media Application to an existing Firebase project with Firestore database enabled. You can now start using Firebase to build a backend for your application.
+
+## API Keys
+To set up Firebase for your social media application, you need to get the API keys from the Firebase Console.
+
+1. Go to the Firebase Console and sign in to your account.
+2. Select the project that you want to use for your social media application.
+3. In the project dashboard, click on the gear icon located in the top left corner of the screen and select "Project settings".
+4. In the project settings page, click on the "General" tab if it's not selected by default.
+5. Scroll down to the "Your apps" section and select the app that you want to get the API keys for.
+6. Scroll down to the "Firebase SDK snippet" section and select "Config" to view your app's configuration object.
+7. Copy the configuration object to your clipboard or a text editor, as you will need to use it in your social media application's code.
+
+Now that you have the API keys for your Firebase project, you can use them to set up the Firebase connection between your social media application and the Firebase database.
