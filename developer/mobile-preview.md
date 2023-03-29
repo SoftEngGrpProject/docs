@@ -1,6 +1,6 @@
 # Mobile Preview (via Expo CLI)
 
-Building the application via Expo CLI involves a few key steps.
+Building the social media application via Expo CLI involves a few key steps.
 
 Firstly, ensure that the developer environment has been set up correctly, including the [installation of all necessary dependencies and libraries](./install-dependencies.md) using the `npm i` command.
 

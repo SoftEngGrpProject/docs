@@ -2,7 +2,7 @@
 
 App deployment is a critical process in bringing an application to the hands of the users.
 
-With [Expo CLI](https://expo.dev/tools#cli), deploying an app is made easier and more streamlined. To deploy the application via [Expo CLI](https://expo.dev/tools#cli), the `expo eject` command must be used.<br>
+With [Expo CLI](https://expo.dev/tools#cli), deploying an app is made easier and more streamlined. To deploy the social media application via [Expo CLI](https://expo.dev/tools#cli), the `expo eject` command must be used.<br>
 This command will generate native project files that can be built, signed, and submitted to the respective app stores.
 
 ❗Before using the `expo eject` command, ensure that the app is fully functional and free of any bugs.
