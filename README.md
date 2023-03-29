@@ -27,8 +27,8 @@ There are 3 stages to the Documentation:
   - [x] [Setting up Firebase Auth](./developer/firebase-setup.md#setting-up-firebase-auth)
   - [x] [Setting up Firestore Storage](./developer/firebase-setup.md#firestore-database-setup)
 - [x] [Installation of Dependencies, Libraries](./developer/install-dependencies.md) (`npm i`)
-- [x] Deployment (Expo CLI)
-- [x] Mobile Preview (Expo App)
+- [x] [Deployment](./developer/app-deployment.md) (Expo CLI)
+- [x] [Mobile Preview](./developer/mobile-preview.md) (Expo App)
 
 ## Platform
 - [ ] System Interface Walkthrough
