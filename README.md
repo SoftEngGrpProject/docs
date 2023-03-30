@@ -40,32 +40,22 @@ There are 3 stages to the Documentation:
 - [x] Main Home Page
 - [x] New Post
   - [x] Upload from Gallery
-- [ ] Add Content?
 - [x] Add Scrapbook
   - [x] Add Media
 - [x] Comments
-- [ ] Create
-- [ ] Create Group Content
-- [ ] Edit Group
-- [ ] Explore
-- [ ] Feed
-- [ ] Group
-  - [ ] Group Create
-  - [ ] Group Members
-  - [ ] Group Moderators
-  - [ ] Group Requests
-  - [ ] Groups View
-- [ ] New Blank Scrapbook
-- [ ] New Blank Scrapbook Group
-- [ ] Post Group
-  - [x] Profile Edit
+- [x] Explore - Gokul
+- [x] Group
+  - [x] Group Create
+  - [x] Group Members
+  - [x] Group Moderators
+  - [x] Edit Group
+- [x] New Blank Scrapbook
+- [x] New Blank Shared Scrapbook - Nasvin
+- [x] Profile Edit
 - [x] Report
 - [x] Report User
-- [ ] Save
-- [ ] Save Group
-- [ ] Scrap Map
-- [ ] Scrapbook
-- [ ] Scrapbook View
-- [ ] Search
-- [ ] Settings
-- [ ] Edit Profile
+- [x] Scrap Map
+- [x] Scrapbook View
+- [x] Search - Gokul
+- [x] Settings - Gokul
+- [x] Edit Profile
