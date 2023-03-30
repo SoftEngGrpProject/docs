@@ -35,14 +35,14 @@ There are 3 stages to the Documentation:
   - [ ] Explaining each section
 ## Users
 - [ ] Walkthrough of the Mobile App
-- [ ] Login/Register
-- [ ] Verification
-- [ ] Main Home Page
+- [x] Login/Register
+  - [x] Verification
+- [x] Main Home Page
 - [x] New Post
   - [x] Upload from Gallery
-- [ ] Add Connect
+- [ ] Add Content?
 - [x] Add Scrapbook
-- [ ] Add Media
+  - [x] Add Media
 - [x] Comments
 - [ ] Create
 - [ ] Create Group Content
@@ -58,10 +58,9 @@ There are 3 stages to the Documentation:
 - [ ] New Blank Scrapbook
 - [ ] New Blank Scrapbook Group
 - [ ] Post Group
-- [ ] Profile
-- [ ] Profile Edit
-- [ ] Report
-- [ ] Report User
+  - [x] Profile Edit
+- [x] Report
+- [x] Report User
 - [ ] Save
 - [ ] Save Group
 - [ ] Scrap Map
